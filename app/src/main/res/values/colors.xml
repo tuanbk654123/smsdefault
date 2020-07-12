@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D37C7C</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="text">#111111</color>
+    <color name="textConnectStatus">#FF1E1E</color>
+    <color name="textLogin">#FFFFFF</color>
+    <color name="line">#B6B6B6</color>
+    <color name="dagui">#77CA32</color>
+    <color name="chuagui">#758FE9</color>
+    <color name="guiloi">#EE285D</color>
+    <color name="backGroundOfList">#fcfcfc</color>
+</resources>

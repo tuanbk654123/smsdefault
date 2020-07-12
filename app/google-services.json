@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "697997879711",
+    "firebase_url": "https://smsappminhanh.firebaseio.com",
+    "project_id": "smsappminhanh",
+    "storage_bucket": "smsappminhanh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697997879711:android:3e230f40b18211f8e735aa",
+        "android_client_info": {
+          "package_name": "com.outsource.smsdefault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697997879711-ttcsc3rhmpf24k7hqfdicmabs59fbg55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outsource.smsdefault",
+            "certificate_hash": "a13bf3e054ed796f951339e4320bac58e011c886"
+          }
+        },
+        {
+          "client_id": "697997879711-givh7geujqbfho6r5ee8kqskp7dcn98p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzgvg632Bp_I0h9TITiuVYwdIzFMUHlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697997879711-givh7geujqbfho6r5ee8kqskp7dcn98p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
+
